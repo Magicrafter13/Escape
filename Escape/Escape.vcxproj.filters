@@ -17,4 +17,56 @@
   <ItemGroup>
     <Text Include="readme.txt" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="source\Escape.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="data\calibri.ttf">
+      <Filter>Resource Files</Filter>
+    </Font>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="icon.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="data\Title_Image.PNG">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="data\plane.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="data\plane_mask.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="data\page3_base.PNG">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="data\page3.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="data\page3_1.PNG">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="data\page3_2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="data\page3_3.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Makefile">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="source\Escape.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\pages.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
