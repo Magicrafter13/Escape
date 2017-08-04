@@ -13,6 +13,18 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Resource Files\Images">
+      <UniqueIdentifier>{baa4e803-ae8d-41cd-b905-e529894f6337}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Images\Page3">
+      <UniqueIdentifier>{1e41b601-d3d9-44f3-88ae-f7240d6b8ed1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Images\Page5">
+      <UniqueIdentifier>{952a39d0-ed30-4100-84e8-1c54f6adebc5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Images\Page8">
+      <UniqueIdentifier>{591a370b-d8d7-449c-a352-715a4c627047}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <Text Include="readme.txt" />
@@ -40,20 +52,44 @@
     <Image Include="data\plane_mask.png">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="data\page3_base.PNG">
-      <Filter>Resource Files</Filter>
-    </Image>
     <Image Include="data\page3.png">
-      <Filter>Resource Files</Filter>
+      <Filter>Resource Files\Images\Page3</Filter>
     </Image>
     <Image Include="data\page3_1.PNG">
-      <Filter>Resource Files</Filter>
+      <Filter>Resource Files\Images\Page3</Filter>
     </Image>
     <Image Include="data\page3_2.png">
-      <Filter>Resource Files</Filter>
+      <Filter>Resource Files\Images\Page3</Filter>
     </Image>
     <Image Include="data\page3_3.png">
-      <Filter>Resource Files</Filter>
+      <Filter>Resource Files\Images\Page3</Filter>
+    </Image>
+    <Image Include="data\page3_base.PNG">
+      <Filter>Resource Files\Images\Page3</Filter>
+    </Image>
+    <Image Include="data\page5_base.png">
+      <Filter>Resource Files\Images\Page5</Filter>
+    </Image>
+    <Image Include="data\page5.png">
+      <Filter>Resource Files\Images\Page5</Filter>
+    </Image>
+    <Image Include="data\page5_1.png">
+      <Filter>Resource Files\Images\Page5</Filter>
+    </Image>
+    <Image Include="data\page5_2.PNG">
+      <Filter>Resource Files\Images\Page5</Filter>
+    </Image>
+    <Image Include="data\page5_3.png">
+      <Filter>Resource Files\Images\Page5</Filter>
+    </Image>
+    <Image Include="data\page8_base.png">
+      <Filter>Resource Files\Images\Page8</Filter>
+    </Image>
+    <Image Include="data\page8.png">
+      <Filter>Resource Files\Images\Page8</Filter>
+    </Image>
+    <Image Include="data\page8_1.png">
+      <Filter>Resource Files\Images\Page8</Filter>
     </Image>
   </ItemGroup>
   <ItemGroup>
@@ -63,9 +99,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="source\Escape.hpp">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="source\pages.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

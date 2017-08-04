@@ -20,8 +20,21 @@ using std::string;
 #include "plane_mask_png.h"
 #include "calibri_ttf.h"
 #include "BOOKOS_ttf.h"
-#include "sprite.h"
-#include "pages.h"
+#include "BKANT_ttf.h"
+
+#include "page3_base_png.h"
+#include "page3_png.h"
+#include "page3_1_png.h"
+#include "page3_2_png.h"
+#include "page3_3_png.h"
+#include "page5_base_png.h"
+#include "page5_png.h"
+#include "page5_1_png.h"
+#include "page5_2_png.h"
+#include "page5_3_png.h"
+#include "page8_base_png.h"
+#include "page8_png.h"
+#include "page8_1_png.h"
 
 #define CONFIG_3D_SLIDERSTATE (*(float *)0x1FF81080)
 

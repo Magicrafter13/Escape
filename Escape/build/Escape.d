@@ -90,13 +90,20 @@ Escape.o: c:/Users/scuba/Documents/GitHub/Escape/Escape/source/Escape.cpp \
  c:/Users/scuba/Documents/GitHub/Escape/Escape/build/plane_mask_png.h \
  c:/Users/scuba/Documents/GitHub/Escape/Escape/build/calibri_ttf.h \
  c:/Users/scuba/Documents/GitHub/Escape/Escape/build/BOOKOS_ttf.h \
- c:/Users/scuba/Documents/GitHub/Escape/Escape/source/sprite.h \
- c:/Users/scuba/Documents/GitHub/Escape/Escape/source/pages.h \
- c:/Users/scuba/Documents/GitHub/Escape/Escape/build/page3_png.h \
+ c:/Users/scuba/Documents/GitHub/Escape/Escape/build/BKANT_ttf.h \
  c:/Users/scuba/Documents/GitHub/Escape/Escape/build/page3_base_png.h \
+ c:/Users/scuba/Documents/GitHub/Escape/Escape/build/page3_png.h \
  c:/Users/scuba/Documents/GitHub/Escape/Escape/build/page3_1_png.h \
  c:/Users/scuba/Documents/GitHub/Escape/Escape/build/page3_2_png.h \
- c:/Users/scuba/Documents/GitHub/Escape/Escape/build/page3_3_png.h
+ c:/Users/scuba/Documents/GitHub/Escape/Escape/build/page3_3_png.h \
+ c:/Users/scuba/Documents/GitHub/Escape/Escape/build/page5_base_png.h \
+ c:/Users/scuba/Documents/GitHub/Escape/Escape/build/page5_png.h \
+ c:/Users/scuba/Documents/GitHub/Escape/Escape/build/page5_1_png.h \
+ c:/Users/scuba/Documents/GitHub/Escape/Escape/build/page5_2_png.h \
+ c:/Users/scuba/Documents/GitHub/Escape/Escape/build/page5_3_png.h \
+ c:/Users/scuba/Documents/GitHub/Escape/Escape/build/page8_base_png.h \
+ c:/Users/scuba/Documents/GitHub/Escape/Escape/build/page8_png.h \
+ c:/Users/scuba/Documents/GitHub/Escape/Escape/build/page8_1_png.h
 
 c:/Users/scuba/Documents/GitHub/Escape/Escape/source/Escape.hpp:
 
@@ -282,16 +289,30 @@ c:/Users/scuba/Documents/GitHub/Escape/Escape/build/calibri_ttf.h:
 
 c:/Users/scuba/Documents/GitHub/Escape/Escape/build/BOOKOS_ttf.h:
 
-c:/Users/scuba/Documents/GitHub/Escape/Escape/source/sprite.h:
-
-c:/Users/scuba/Documents/GitHub/Escape/Escape/source/pages.h:
-
-c:/Users/scuba/Documents/GitHub/Escape/Escape/build/page3_png.h:
+c:/Users/scuba/Documents/GitHub/Escape/Escape/build/BKANT_ttf.h:
 
 c:/Users/scuba/Documents/GitHub/Escape/Escape/build/page3_base_png.h:
+
+c:/Users/scuba/Documents/GitHub/Escape/Escape/build/page3_png.h:
 
 c:/Users/scuba/Documents/GitHub/Escape/Escape/build/page3_1_png.h:
 
 c:/Users/scuba/Documents/GitHub/Escape/Escape/build/page3_2_png.h:
 
 c:/Users/scuba/Documents/GitHub/Escape/Escape/build/page3_3_png.h:
+
+c:/Users/scuba/Documents/GitHub/Escape/Escape/build/page5_base_png.h:
+
+c:/Users/scuba/Documents/GitHub/Escape/Escape/build/page5_png.h:
+
+c:/Users/scuba/Documents/GitHub/Escape/Escape/build/page5_1_png.h:
+
+c:/Users/scuba/Documents/GitHub/Escape/Escape/build/page5_2_png.h:
+
+c:/Users/scuba/Documents/GitHub/Escape/Escape/build/page5_3_png.h:
+
+c:/Users/scuba/Documents/GitHub/Escape/Escape/build/page8_base_png.h:
+
+c:/Users/scuba/Documents/GitHub/Escape/Escape/build/page8_png.h:
+
+c:/Users/scuba/Documents/GitHub/Escape/Escape/build/page8_1_png.h:

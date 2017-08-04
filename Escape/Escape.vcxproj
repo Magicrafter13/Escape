@@ -108,7 +108,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="source\Escape.hpp" />
-    <ClInclude Include="source\pages.h" />
   </ItemGroup>
   <ItemGroup>
     <Font Include="data\calibri.ttf" />
@@ -119,6 +118,14 @@
     <Image Include="data\page3_2.png" />
     <Image Include="data\page3_3.png" />
     <Image Include="data\page3_base.PNG" />
+    <Image Include="data\page5.png" />
+    <Image Include="data\page5_1.png" />
+    <Image Include="data\page5_2.PNG" />
+    <Image Include="data\page5_3.png" />
+    <Image Include="data\page5_base.png" />
+    <Image Include="data\page8.png" />
+    <Image Include="data\page8_1.png" />
+    <Image Include="data\page8_base.png" />
     <Image Include="data\plane.png" />
     <Image Include="data\plane_mask.png" />
     <Image Include="data\Title_Image.PNG" />
