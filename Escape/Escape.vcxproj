@@ -110,6 +110,8 @@
     <ClInclude Include="source\Escape.hpp" />
   </ItemGroup>
   <ItemGroup>
+    <Font Include="data\BKANT.ttf" />
+    <Font Include="data\BOOKOS.ttf" />
     <Font Include="data\calibri.ttf" />
   </ItemGroup>
   <ItemGroup>

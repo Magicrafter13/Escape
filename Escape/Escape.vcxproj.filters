@@ -25,6 +25,12 @@
     <Filter Include="Resource Files\Images\Page8">
       <UniqueIdentifier>{591a370b-d8d7-449c-a352-715a4c627047}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Resource Files\Fonts">
+      <UniqueIdentifier>{6d0685bf-31fc-4a77-8f74-46c66b0c9994}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Images\Title">
+      <UniqueIdentifier>{ee7bd947-5ab0-4c94-8c61-21a81557e383}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <Text Include="readme.txt" />
@@ -35,23 +41,6 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Font Include="data\calibri.ttf">
-      <Filter>Resource Files</Filter>
-    </Font>
-  </ItemGroup>
-  <ItemGroup>
-    <Image Include="icon.png">
-      <Filter>Resource Files</Filter>
-    </Image>
-    <Image Include="data\Title_Image.PNG">
-      <Filter>Resource Files</Filter>
-    </Image>
-    <Image Include="data\plane.png">
-      <Filter>Resource Files</Filter>
-    </Image>
-    <Image Include="data\plane_mask.png">
-      <Filter>Resource Files</Filter>
-    </Image>
     <Image Include="data\page3.png">
       <Filter>Resource Files\Images\Page3</Filter>
     </Image>
@@ -91,6 +80,18 @@
     <Image Include="data\page8_1.png">
       <Filter>Resource Files\Images\Page8</Filter>
     </Image>
+    <Image Include="data\plane.png">
+      <Filter>Resource Files\Images\Title</Filter>
+    </Image>
+    <Image Include="data\plane_mask.png">
+      <Filter>Resource Files\Images\Title</Filter>
+    </Image>
+    <Image Include="data\Title_Image.PNG">
+      <Filter>Resource Files\Images\Title</Filter>
+    </Image>
+    <Image Include="icon.png">
+      <Filter>Resource Files\Images</Filter>
+    </Image>
   </ItemGroup>
   <ItemGroup>
     <None Include="Makefile">
@@ -101,5 +102,16 @@
     <ClInclude Include="source\Escape.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="data\calibri.ttf">
+      <Filter>Resource Files\Fonts</Filter>
+    </Font>
+    <Font Include="data\BKANT.ttf">
+      <Filter>Resource Files\Fonts</Filter>
+    </Font>
+    <Font Include="data\BOOKOS.ttf">
+      <Filter>Resource Files\Fonts</Filter>
+    </Font>
   </ItemGroup>
 </Project>
